@@ -1,0 +1,36 @@
+.header {
+    background-color: black;
+    color: aqua;
+    font-weight: bold;
+    padding: 5px;
+    font-family: sans-serif;
+}
+
+.title {
+    margin-left: 15px;
+}
+
+.projects {
+    background-color: blueviolet;
+    color: white;
+    font-weight: 500;
+    text-align: center;
+    padding: 5px;
+    margin-top: 15px;
+    font-family: sans-serif;
+}
+
+.contact {
+    background-color:cornflowerblue;
+    color:blueviolet;
+    font-weight: 500;
+    text-align:right;
+    padding: 5px;
+    margin-top: 15px;
+    font-family: sans-serif;
+    text-decoration: underline;
+}
+
+.contact-title {
+    margin-right: 15px;
+}
